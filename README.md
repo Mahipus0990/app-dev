@@ -1,2 +1,12 @@
-# app-dev
-My first repository
+## Top Movies 
+- Uncharted
+- Journey to the Center of the Earth 2
+- Beast (2022 American film)
+- The Northman
+- Jurassic World
+- Alita
+- Jack the Giant Slayer
+- Warcraft (film)
+- Barbie: The Pearl Princess
+- princess and the frog
+- Rapunzel
